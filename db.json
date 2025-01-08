@@ -1,8 +1,18 @@
 {
   "posts": [
-    "MAG12345",
-    "MAG67890",
-    "MAG54321"
+    {
+  "magazines": [
+    {
+      "magazine_id": "MAG12345"
+    },
+    {
+      "magazine_id": "MAG67890"
+    },
+    {
+      "magazine_id": "MAG54321"
+    }
+  ]
+}
   ],
   "profile": {
     "name": "typicode"
